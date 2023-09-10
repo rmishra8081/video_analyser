@@ -1,0 +1,20 @@
+/* VideoResults Component Styles */
+.video-results {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .video-results h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .video-results p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
+  /* Add additional styling as needed */
+  
